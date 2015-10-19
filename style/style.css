@@ -94,16 +94,16 @@ body {
 	margin-right: 80px;
 }
 
-#ponyList {
+#oneP > img {
 	height: 440px;
 	vertical-align: center;
 	margin: auto;
 }
 
-#ponyList > li {
+/*#ponyList > li {
 	display: inline;
 	margin: 20px;
-}
+}*/
 
 .column {
 	float: left;
